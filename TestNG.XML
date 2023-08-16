@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Suite name="Amazon  test suite">
+
+
+<test name=" Test_cases ">
+ <groups>
+            <run>
+                <include name="details" />
+            </run>
+        </groups>
+<classes>
+<class name="test_Cases.Test_cases"></class>
+</classes>
+</test>
+
+<test name=" Add_to_cart">
+<classes>
+<class name="test_Cases.Cart_Page"></class>
+</classes>
+</test>
+
+
+
+</Suite>

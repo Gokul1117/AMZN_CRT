@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-16T14:33:40 IST" name="Default suite" finished-at="2023-08-16T14:33:56 IST" duration-ms="16453">
+    <groups>
+    </groups>
+    <test started-at="2023-08-16T14:33:40 IST" name="Default test" finished-at="2023-08-16T14:33:56 IST" duration-ms="16453">
+      <class name="test_Cases.Cart_Page">
+        <test-method is-config="true" signature="Launch_browser()[pri:0, instance:test_Cases.Cart_Page@6f1de4c7]" started-at="2023-08-16T14:33:40 IST" name="Launch_browser" finished-at="2023-08-16T14:33:44 IST" duration-ms="3730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_browser -->
+        <test-method signature="Incresing_the_product_Quantity()[pri:0, instance:test_Cases.Cart_Page@6f1de4c7]" started-at="2023-08-16T14:33:44 IST" name="Incresing_the_product_Quantity" finished-at="2023-08-16T14:33:56 IST" duration-ms="12655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Incresing_the_product_Quantity -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:test_Cases.Cart_Page@6f1de4c7]" started-at="2023-08-16T14:33:56 IST" name="Close_browser" finished-at="2023-08-16T14:33:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+      </class> <!-- test_Cases.Cart_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
